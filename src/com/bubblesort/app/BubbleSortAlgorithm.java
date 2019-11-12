@@ -38,7 +38,6 @@ public class BubbleSortAlgorithm {
     }
     
     //Methods
-    
     //Swaping element
     public static void swap(int[] array, int i, int j) {
 
